@@ -1,0 +1,6 @@
+@EmailService_Clarity.API_HostAddress = http://localhost:5142
+
+GET {{EmailService_Clarity.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
